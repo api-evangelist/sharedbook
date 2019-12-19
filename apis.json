@@ -1,0 +1,72 @@
+{
+    "name": "SharedBook",
+    "description": "SharedBook provides secure mobile delivery of workbooks, manuals, reports, and other content for trainers, management consultants, publishers, and associations.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/928-sharedbook.jpg",
+    "tags": [
+        "books",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sharedbook\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SharedBook",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/928-sharedbook.jpg",
+            "humanURL": "http:\/\/www.sharedbook.com\/dev\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sharedbook-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sharedbook-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sharedbook.com\/dev\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.sharedbook.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/sharedbook"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sharedbook"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sharedbook"
+        },
+        {
+            "type": "Email",
+            "url": "support@sharedbook.com"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@sharedbook.com"
+        },
+        {
+            "type": "Email",
+            "url": "legalnotices@sharedbook.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MySharedBook"
+        }
+    ]
+}
